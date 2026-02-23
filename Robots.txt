@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.chaveirosouza.com.br/sitemap.xml
